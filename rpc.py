@@ -246,8 +246,7 @@ def get_tft_stats(riot_id, tagline, port, password, double_up=False):
             return None
 
         lvl = int(user_player.get("level", 1))
-        gold = int(active_player_data.get("currentGold", 0))
-        stats_line = f"Lvl {lvl} • {gold}g"
+        stats_line = f"Lvl {lvl}"
         
         total_players = len(players)
         team_size = 2 if double_up else 1

@@ -4,7 +4,7 @@ A Python script that displays your current League of Legends or TFT game status 
 
 ## Features
 - Displays current Champion (with GIF from Giphy)
-- Supports TFT (with Level, Gold, and Placement)
+- Supports TFT (with Level and Placement)
 - Displays KDA and game duration
 - Optional profile buttons (u.gg / MetaTFT)
 - Automatic League Client detection
