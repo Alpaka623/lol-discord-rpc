@@ -1,0 +1,4 @@
+requests
+pypresence
+urllib3
+python-dotenv
