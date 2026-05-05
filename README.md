@@ -31,3 +31,6 @@ python rpc.py
 - Windows (League Client required)
 - Discord Desktop App
 - Python 3.8+
+
+## Important Note
+- **RPC Priority:** To prevent the default League of Legends Rich Presence from overriding this script, you should start **both Discord and your Terminal (e.g., PowerShell or CMD) as Administrator**. This ensures the script's presence stays on top of the default game status.
